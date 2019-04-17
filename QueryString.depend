@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1555469268 source:c:\users\arturo casillas\documents\github\querystring\main.c
+1555487323 source:c:\users\arturo casillas\documents\github\querystring\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
